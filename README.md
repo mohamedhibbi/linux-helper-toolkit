@@ -1,3 +1,8 @@
+## Why this project?
+This project was created to practice Linux fundamentals, Bash scripting,
+and Git/GitHub workflow. It is designed as a beginner-friendly toolkit
+for daily Linux tasks
+
 # Linux Helper Toolkit
 
 A collection of beginner-friendly Bash scripts and Linux command notes.  
